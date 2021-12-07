@@ -50,3 +50,7 @@ main{
 #coloredp{
     background-color: yellow;
 }
+th{
+    background-color:#60ddfc;
+    padding-right: 100px;
+}
