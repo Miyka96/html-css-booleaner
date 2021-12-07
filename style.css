@@ -67,4 +67,30 @@ td{
 }
 #suggestion{
     color: #818181;
+    margin-top: 30px;
+    font-weight: bold;
+}
+#monitor{
+    background-image: url(img/monitor.jpg);
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    width: 312px;
+    height: 208px;
+    margin-top: 10px;
+    padding-left: 2%;
+    padding-top: 1%;
+    background-repeat: no-repeat;
+}
+#graph{
+    background-image: url(img/graph.jpg);
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    width: 312px;
+    height: 208px;
+    margin-top: 10px;
+    padding-left: 2%;
+    padding-top: 1%;
+    background-repeat: no-repeat;
 }
