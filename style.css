@@ -1,6 +1,6 @@
 body{
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
     padding-right: 5%;
     padding-left: 5%;
 }
@@ -40,4 +40,13 @@ nav>h1{
 .subphoto{
     font-size: 13px;
     font-family: 'Times New Roman', Times, serif;
+}
+main>p{
+    display: inline;
+}
+main{
+    margin-top: 10px;
+}
+#coloredp{
+    background-color: yellow;
 }
