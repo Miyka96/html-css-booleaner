@@ -47,10 +47,24 @@ main>p{
 main{
     margin-top: 10px;
 }
-#coloredp{
+.colorep{
     background-color: yellow;
 }
-th{
-    background-color:#60ddfc;
-    padding-right: 100px;
+table{
+    border-spacing: 0;
+    margin-bottom: 15px;
+}
+td{
+    min-width: 250px;
+}
+.blue{
+    color: white;
+    background-color: #20a9e5;
+    font-weight: bold;
+}
+.lightblue{
+    background-color:#b1e5f2;
+}
+#suggestion{
+    color: #818181;
 }
